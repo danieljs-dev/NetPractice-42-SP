@@ -1,3 +1,4 @@
 A guide to NetPractice: a set of networking exercises with a focus on IP addresses and subnet masks.
 
-<img width="917" height="605" alt="image" src="https://github.com/user-attachments/assets/54704a14-e932-4fe6-9950-7ca7a787b79e" />
+![netpractice-lvl-7](https://github.com/user-attachments/assets/d1c542d3-f9b5-4acf-868a-16a13e68dfd7)
+
